@@ -1,0 +1,20 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "description": "Simple containerised app for tests",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tirke/demo-app.git"
+  },
+  "author": "Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tirke/demo-app/issues"
+  },
+  "homepage": "https://github.com/Tirke/demo-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
